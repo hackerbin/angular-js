@@ -1,0 +1,34 @@
+AngularJS is a JavaScript framework. It can be added to an HTML page with a <script> tag.
+
+AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.
+--------------------------------------------------------------------------------------------------------
+AngularJS is a JavaScript Framework:
+AngularJS is a JavaScript framework. It is a library written in JavaScript.
+
+AngularJS is distributed as a JavaScript file, and can be added to a web page with a script tag.
+--------------------------------------------------------------------------------------------------------
+AngularJS Extends HTML:
+AngularJS extends HTML with ng-directives.
+
+The ng-app directive defines an AngularJS application.
+
+The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.
+
+The ng-bind directive binds application data to the HTML view.
+---------------------------------------------------------------------------------------------------------
+AngularJS starts automatically when the web page has loaded.
+
+The "ng-app" directive tells AngularJS that the element is the "owner" of an AngularJS application.
+
+The "ng-model" directive binds the value to a application variable.
+
+The "ng-bind" directive binds application variable to the innerHTML of a element.
+---------------------------------------------------------------------------------------------------------
+If you remove the ng-app directive, HTML will display the expression as it is, without solving it.
+---------------------------------------------------------------------------------------------------------
+AngularJS Directives:
+AngularJS directives are HTML attributes with an ng prefix.
+
+The ng-init directive initialize AngularJS application variables.
+---------------------------------------------------------------------------------------------------------
+
